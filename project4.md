@@ -108,9 +108,9 @@ _Evaluating the model we are going to look at accuracy, precision, recall,  and 
 - _The accuracy of the model is at .92. Accuracy measure the total number of homes that were predicted correctly as being before 1980 and after 1980. In a 100 homes 92 would be predicted correctly and 8 would be missed labeled._
 
 
-- _The recall of the model is at .93. Precision measures the homes that were labeled before 1980 correctly / the number of homes labeled before 1980 correctly plus the homes that were labeled after 1980 but were actually before 1980._
+- _The recall of the model is at .93. Recall measures the homes that were labeled before 1980 correctly / the number of homes labeled before 1980 correctly plus the homes that were labeled after 1980 but were actually before 1980._
 
-- _The precision of the model is at .95. Recall measures the homes that were labeled before 1980 correctly /  the number of homes that were labeled before 1980 correctly plus the number of homes labeled before 1980 but actually after 1980._
+- _The precision of the model is at .95. Precision measures the homes that were labeled before 1980 correctly /  the number of homes that were labeled before 1980 correctly plus the number of homes labeled before 1980 but actually after 1980._
 
 _Accuracy is not a good measurement in this case because the number of homes that were actually before 1980 are not proportional to the number of homes that were after 1980._
 
